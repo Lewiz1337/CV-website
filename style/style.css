@@ -407,4 +407,7 @@ aside ul {
     height: 150px;
     width: 150px;
   }
+  .footer__info-img:hover {
+    transform: none;
+  }
 }
